@@ -15,4 +15,4 @@
 <br>
 <br>
 <h3>Mockup Macbook Layout:</h3>
-<img src="https://github.com/LucasbdLima/conversor-de-moeda/blob/master/assets/Macbook%20Mockup.png?raw=true" alt="cellphone-layout-project">
+<img src="https://github.com/LucasbdLima/conversor-de-moeda/blob/master/assets/Macbook%20Mockup.png?raw=true">
