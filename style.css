@@ -109,6 +109,10 @@ body{
     appearance: none;
 }
 
+#value-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
 #value-input::placeholder{
     color:#193441;
     font-size: 15px;
